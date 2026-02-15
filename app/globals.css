@@ -1,10 +1,10 @@
 @import "tailwindcss";
 
 @theme {
-  --color-bg: #fffaf5;
-  --color-text: #2b2b2b;
+  --color-bg: #ffffff;
+  --color-text: #1F1F1F;
   --color-accent: #ff8c42;
-  
+
   --radius-xl: 28px;
 
   --font-display: var(--font-display), serif;
@@ -12,7 +12,7 @@
 
 body {
   background: var(--color-bg);
-  color: white;
+  color: black;
 }
 
 h1,
@@ -28,8 +28,4 @@ h6 {
 
 html {
   scroll-behavior: smooth;
-}
-
-.perspective-1000 {
-  perspective: 1000px;
 }
