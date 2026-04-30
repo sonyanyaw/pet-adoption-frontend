@@ -70,7 +70,7 @@ export default function Contact() {
                 <a href="#hero">Fluffy</a>
               </div>
 
-              <div className="hidden md:flex gap-10 text-gray-300 text-sm">
+              <div className="hidden md:flex gap-10 text-gray-300 text-lg">
                 <a href="#who-we-are">Who we are</a>
                 <a href="#help">Help</a>
                 <a href="#pets">Pets</a>
